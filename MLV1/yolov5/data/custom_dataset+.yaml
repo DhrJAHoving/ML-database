@@ -1,6 +1,6 @@
 
 train: custom_dataset+\train\images
-val: ../custom_dataset+/val/images
+val: ../datasets/custom_dataset+/val/images
 
 
 # Classes
