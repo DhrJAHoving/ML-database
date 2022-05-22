@@ -14,3 +14,12 @@ python detect.py --source C:\Users\joost\MLV1\datasets\custom_dataset\train\imag
 timecmd
 python train.py --img 240 --batch 1 --epochs 3 --data custom_dataset.yaml --weights yolov5s.pt
 timecmd
+
+Errors
+Dataset not found ⚠, missing paths ['/home/18023517/ML-database/MLV1/yolov5/custom_dataset+\\val\\images']			edited dataset.yaml
+Dataset not found ⚠, missing paths ['/home/18023517/ML-database/MLV1/custom_dataset+/val/images']
+
+
+
+
+cd ML-database/MLV1/yolov5
