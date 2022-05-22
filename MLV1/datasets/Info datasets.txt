@@ -1,0 +1,4 @@
+coco is van internet
+custom_dataset bestaat uit totaal 600 afbeeldingen
+900?
+1200?
