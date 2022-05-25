@@ -18,3 +18,4 @@ cd ML-database/MLV1/yolov5
 
 python train.py --img 240 --batch 1 --epochs 3 --data custom_dataset.yaml --weights yolov5s.pt --project train --name SER_epochs=3_batch-size=1_image-size=240_database-size=600
 python train.py --img 640 --batch 24 --epochs 100 --data custom_dataset+.yaml --weights yolov5s.pt --project train --name SER_epochs=100_batch-size=24_image-size=640_database-size=1000
+python train.py --img 640 --batch 24 --epochs 500 --data custom_dataset+.yaml --weights yolov5s.pt --project train --name SER_epochs=500_batch-size=24_image-size=640_database-size=1000
