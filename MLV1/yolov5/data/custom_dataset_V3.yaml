@@ -1,0 +1,9 @@
+
+train: ../datasets/custom_dataset_V3/train/images
+val: ../datasets/custom_dataset_V3/val/images
+
+
+# Classes
+nc: 5  # number of classes
+names: ['cups', 'chocolate', 'tea', 'sugar', 'plastic bottle']  # class names
+
