@@ -1,0 +1,4 @@
+~/ML-database$ git add -A
+~/ML-database$ git commit -m 'Added file'
+~/ML-database$ git push -u origin main
+
